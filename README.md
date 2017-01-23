@@ -1,2 +1,2 @@
 # nt-spider-web
-web spider
+web spider :)
